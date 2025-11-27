@@ -54,8 +54,8 @@
       <td align="center">Deployment (배포)</td>
       <td align="center">윤민혁</td>
       <td align="center">
-        <img src="https://github.com/YoonMinHyuk.png" width="50"/><br>
-        <a href="https://github.com/YoonMinHyuk">@YoonMinHyuk</a>
+        <img src="https://github.com/DevBawky.png" width="50"/><br>
+        <a href="https://github.com/DevBawky">@DevBawky</a>
       </td>
       <td align="center">ghini7170@naver.com</td>
     </tr>
