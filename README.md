@@ -57,7 +57,7 @@
         <img src="https://github.com/DevBawky.png" width="50"/><br>
         <a href="https://github.com/DevBawky">@DevBawky</a>
       </td>
-      <td align="center">ghini7170@naver.com</td>
+      <td align="center">ghini7170@pusan.ac.kr</td>
     </tr>
     <tr>
       <td align="center">Announcement (발표)</td>
